@@ -14,4 +14,6 @@ My 90-day DevOps  and Networking learning journey with Linux, Docker, AWS, and p
 - Understood Linux directory structure
 - Uploaded screenshots for proof
 
-  ✔ Day 2 completed
+## Progress
+✔ Day 2 completed
+
