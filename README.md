@@ -8,3 +8,10 @@ My 90-day DevOps  and Networking learning journey with Linux, Docker, AWS, and p
 
 ## Progress
 ✔ Day 1 completed
+
+## Day 2 - Linux File System
+- Explored /, /home, /etc, /var
+- Understood Linux directory structure
+- Uploaded screenshots for proof
+
+  ✔ Day 2 completed
