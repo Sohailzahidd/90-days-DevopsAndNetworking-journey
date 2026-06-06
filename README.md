@@ -17,3 +17,17 @@ My 90-day DevOps  and Networking learning journey with Linux, Docker, AWS, and p
 ## Progress
 ✔ Day 2 completed
 
+# Day 3 - Linux File Permissions
+
+## Learned:
+- r = read
+- w = write
+- x = execute
+
+## Commands:
+- ls -l
+- chmod 777
+- chmod 755
+
+## Key Learning:
+Permissions control access to files in Linux systems.
