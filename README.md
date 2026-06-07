@@ -31,3 +31,15 @@ My 90-day DevOps  and Networking learning journey with Linux, Docker, AWS, and p
 
 ## Key Learning:
 Permissions control access to files in Linux systems.
+
+# Day 4 - Linux Users & Groups
+
+## Learned:
+- whoami → current user
+- id → user details
+- groups → user groups
+- sudo → admin access
+
+## Key Concept:
+Linux is a multi-user system where users are organized into groups for permission management.
+
