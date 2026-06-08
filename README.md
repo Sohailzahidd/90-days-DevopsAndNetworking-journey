@@ -43,3 +43,15 @@ Permissions control access to files in Linux systems.
 ## Key Concept:
 Linux is a multi-user system where users are organized into groups for permission management.
 
+# Day 5 - Linux Process Management
+
+## Learned:
+- ps → view processes
+- ps -ef → detailed process list
+- top → real-time monitoring
+- kill → stop process
+- & → run process in background
+
+## Key Concept:
+A process is any running program in Linux.
+
