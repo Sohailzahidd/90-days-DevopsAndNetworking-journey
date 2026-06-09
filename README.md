@@ -55,3 +55,24 @@ Linux is a multi-user system where users are organized into groups for permissio
 ## Key Concept:
 A process is any running program in Linux.
 
+# 90 Days DevOps Journey
+
+## Week 1 Completed - Linux Fundamentals
+
+### Topics Covered:
+- Linux File System
+- Essential Commands
+- File Permissions
+- Users & Groups
+- Process Management
+
+### Hands-on Practice:
+- File creation and management
+- Permission control using chmod
+- User identity and group management
+- Process monitoring and control
+- System health commands
+
+### Status:
+✔ Week 1 Completed
+
