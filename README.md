@@ -57,7 +57,7 @@ A process is any running program in Linux.
 
 # 90 Days DevOps Journey
 
-## Week 1 Completed - Linux Fundamentals
+## day 6 - Linux Fundamentals
 
 ### Topics Covered:
 - Linux File System
@@ -75,4 +75,37 @@ A process is any running program in Linux.
 
 ### Status:
 ✔ Week 1 Completed
+
+# 90 Days DevOps Journey
+
+Welcome to my 90-Day DevOps Learning Journey.
+
+I am documenting my learning through hands-on practice, GitHub documentation, technical blogs, and LinkedIn updates.
+
+## Week 1: Linux Fundamentals
+
+### Topics Covered
+- Linux File System
+- Essential Linux Commands
+- File Permissions
+- Users and Groups
+- Process Management
+
+### Hands-On Practice
+- File and directory management
+- Permission management using chmod
+- User and group exploration
+- Process monitoring and control
+- Basic system monitoring
+
+### Progress
+Week 1 Completed
+
+## Blog
+Week 1 Blog: https://shorturl.at/oilce
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/zahid-sohail/
+
+
 
