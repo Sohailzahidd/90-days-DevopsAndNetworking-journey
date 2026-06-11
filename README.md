@@ -1,8 +1,8 @@
 # 90-days-DevopsAndNetworking-journey
 
-## Week-1
-
 My 90-day DevOps  and Networking learning journey with Linux, Docker, AWS, and projects.
+
+## Week-1
 
 ## Day 1 - Linux Basics
 - Learned basic commands (ls, pwd, mkdir, touch)
