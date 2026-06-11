@@ -1,4 +1,7 @@
 # 90-days-DevopsAndNetworking-journey
+
+## Week-1
+
 My 90-day DevOps  and Networking learning journey with Linux, Docker, AWS, and projects.
 
 ## Day 1 - Linux Basics
@@ -106,6 +109,25 @@ Week 1 Blog: https://shorturl.at/oilce
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/zahid-sohail/
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Week-2
+
+# Day 8 - Package Management Basics
+
+## Commands Practiced
+
+- sudo apt update
+- apt search nginx
+- apt show nginx
+- git --version
+- dpkg -l | grep git
+
+## Key Learning
+
+Package managers help install, update, and manage software efficiently in Linux systems.
+
 
 
 
