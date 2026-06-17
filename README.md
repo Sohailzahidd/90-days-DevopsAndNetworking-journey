@@ -322,6 +322,35 @@ chmod +x script.sh
 
 Created and executed multiple Bash scripts and understood the fundamentals of Linux automation.
 
+# Day 13 - Shell Scripting Practice
 
+## Topics Covered
+
+- Disk Monitoring
+- Memory Monitoring
+- Service Monitoring
+- Log Backup
+- System Health Reports
+- User Input
+
+## Scripts Created
+
+- disk-check.sh
+- memory-check.sh
+- nginx-check.sh
+- backup-logs.sh
+- health-report.sh
+- welcome.sh
+
+## Key Learnings
+
+- Shell scripts automate repetitive Linux tasks.
+- Variables and conditions make scripts dynamic.
+- Automation is a core DevOps skill.
+- Scripts can monitor systems and create reports.
+
+## Outcome
+
+Built practical automation scripts commonly used by Linux administrators and DevOps engineers.
 
 
