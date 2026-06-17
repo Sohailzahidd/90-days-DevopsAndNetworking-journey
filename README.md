@@ -121,11 +121,11 @@ Topics Covered:
 
 ### LinkedIn
 
-(Add your LinkedIn profile link)
+https://www.linkedin.com/in/zahid-sohail/
 
 ### Hashnode
 
-(Add your Hashnode blog profile link)
+https://hashnode.com/@sohailzahid
 
 ---
 
