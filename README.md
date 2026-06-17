@@ -113,7 +113,7 @@ Topics Covered:
 * Week 1 Linux Fundamentals Blog
 * Week 2 Linux Administration Blog
 
-(Add your Hashnode blog links here)
+https://hashnode.com/@sohailzahid
 
 ---
 
