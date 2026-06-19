@@ -39,32 +39,29 @@ fg
 
 ---
 
+
+
+---
+
 ## Screenshots
 
-### Process Listing using ps
+### Ps-ef.png
 
-![ps command](screenshots/Ps-ef.png)
+![Ps-ef.png](screenshots/Ps-ef.png)
 
-### Process Monitoring using top
+### day5file.png
 
-![top command](screenshots/topCmd.png)
+![day5file.png](screenshots/day5file.png)
 
-### Running Processes
+### topCmd.png
 
-![running process](screenshots/runPsCmd.png)
+![topCmd.png](screenshots/topCmd.png)
 
-### Sleep Command Demonstration
+### runPsCmd.png
 
-![sleep command](screenshots/sleepCmd.png)
+![runPsCmd.png](screenshots/runPsCmd.png)
 
-### Process Practice File
+### sleepCmd.png
 
-![process file](screenshots/day5file.png)
+![sleepCmd.png](screenshots/sleepCmd.png)
 
----
-
----
-
-## Outcome
-
-Successfully monitored and controlled processes in a Linux environment.

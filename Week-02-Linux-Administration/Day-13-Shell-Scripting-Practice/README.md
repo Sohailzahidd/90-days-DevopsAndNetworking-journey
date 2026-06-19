@@ -43,7 +43,33 @@ Successfully developed practical automation scripts using Bash.
 
 ---
 
+
+
+---
+
 ## Screenshots
 
-Screenshots demonstrating hands-on practice and command execution.
+### diskcheck.png
+
+![diskcheck.png](diskcheck.png)
+
+### healthreport.png
+
+![healthreport.png](healthreport.png)
+
+### memorycheck.png
+
+![memorycheck.png](memorycheck.png)
+
+### healthreportTerminal.png
+
+![healthreportTerminal.png](healthreportTerminal.png)
+
+### welcome.sh.png
+
+![welcome.sh.png](welcome.sh.png)
+
+### nginxcheck.png
+
+![nginxcheck.png](nginxcheck.png)
 

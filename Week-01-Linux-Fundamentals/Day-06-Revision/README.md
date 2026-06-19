@@ -33,7 +33,41 @@ Consolidated foundational Linux concepts through revision and hands-on practice.
 
 ---
 
+
+
+---
+
 ## Screenshots
 
-Screenshots demonstrating hands-on practice and command execution.
+### day6revision.png
+
+![day6revision.png](day6revision.png)
+
+### process
+
+![process](process)
+
+### list
+
+![list](list)
+
+### (ps).png
+
+![(ps).png]((ps).png)
+
+### fileCat.png
+
+![fileCat.png](fileCat.png)
+
+### varlog.png
+
+![varlog.png](varlog.png)
+
+### chmod
+
+![chmod](chmod)
+
+### changes.png
+
+![changes.png](changes.png)
 

@@ -46,7 +46,29 @@ Successfully managed users and groups while understanding Linux access control c
 
 ---
 
+
+
+---
+
 ## Screenshots
 
-Screenshots demonstrating hands-on practice and command execution.
+### SudoAccess.png
+
+![SudoAccess.png](SudoAccess.png)
+
+### fileCreation.png
+
+![fileCreation.png](fileCreation.png)
+
+### whoamiOutput.png
+
+![whoamiOutput.png](whoamiOutput.png)
+
+### groupsOutput.png
+
+![groupsOutput.png](groupsOutput.png)
+
+### idOutput.png
+
+![idOutput.png](idOutput.png)
 

@@ -44,7 +44,21 @@ Successfully managed Linux software packages using package management tools.
 
 ---
 
+
+
+---
+
 ## Screenshots
 
-Screenshots demonstrating hands-on practice and command execution.
+### packages.png
+
+![packages.png](packages.png)
+
+### sudoApt.png
+
+![sudoApt.png](sudoApt.png)
+
+### versionCheck.png
+
+![versionCheck.png](versionCheck.png)
 

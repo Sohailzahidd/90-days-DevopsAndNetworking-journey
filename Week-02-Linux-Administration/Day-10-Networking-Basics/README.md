@@ -44,7 +44,33 @@ Successfully explored Linux networking and connectivity troubleshooting.
 
 ---
 
+
+
+---
+
 ## Screenshots
 
-Screenshots demonstrating hands-on practice and command execution.
+### hostid.png
+
+![hostid.png](hostid.png)
+
+### dnslookup.png
+
+![dnslookup.png](dnslookup.png)
+
+### ownerhost.png
+
+![ownerhost.png](ownerhost.png)
+
+### openPorts.png
+
+![openPorts.png](openPorts.png)
+
+### SSHstatus.png
+
+![SSHstatus.png](SSHstatus.png)
+
+### pingResult.png
+
+![pingResult.png](pingResult.png)
 

@@ -43,7 +43,45 @@ Successfully created basic Bash scripts for automation tasks.
 
 ---
 
+
+
+---
+
 ## Screenshots
 
-Screenshots demonstrating hands-on practice and command execution.
+### sysInfonano.png
+
+![sysInfonano.png](sysInfonano.png)
+
+### loopNano.png
+
+![loopNano.png](loopNano.png)
+
+### sysInfo.png
+
+![sysInfo.png](sysInfo.png)
+
+### Script2.png
+
+![Script2.png](Script2.png)
+
+### FirstScript.png
+
+![FirstScript.png](FirstScript.png)
+
+### Demoscript.png
+
+![Demoscript.png](Demoscript.png)
+
+### ageScript.png
+
+![ageScript.png](ageScript.png)
+
+### loopScript.png
+
+![loopScript.png](loopScript.png)
+
+### ageFile.png
+
+![ageFile.png](ageFile.png)
 

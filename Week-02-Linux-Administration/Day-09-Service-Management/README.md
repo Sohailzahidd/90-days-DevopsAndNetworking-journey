@@ -43,7 +43,21 @@ Successfully managed and monitored Linux system services.
 
 ---
 
+
+
+---
+
 ## Screenshots
 
-Screenshots demonstrating hands-on practice and command execution.
+### nginxInstall.png
+
+![nginxInstall.png](nginxInstall.png)
+
+### enablenginx.png
+
+![enablenginx.png](enablenginx.png)
+
+### status.png
+
+![status.png](status.png)
 

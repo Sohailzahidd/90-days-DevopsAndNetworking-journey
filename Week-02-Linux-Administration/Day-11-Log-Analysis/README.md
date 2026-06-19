@@ -44,7 +44,29 @@ Successfully analyzed system logs and investigated system events.
 
 ---
 
+
+
+---
+
 ## Screenshots
 
-Screenshots demonstrating hands-on practice and command execution.
+### tailLogs.png
+
+![tailLogs.png](tailLogs.png)
+
+### journalCtl.png
+
+![journalCtl.png](journalCtl.png)
+
+### grepNginx.png
+
+![grepNginx.png](grepNginx.png)
+
+### varLog.png
+
+![varLog.png](varLog.png)
+
+### SysLogs.png
+
+![SysLogs.png](SysLogs.png)
 
