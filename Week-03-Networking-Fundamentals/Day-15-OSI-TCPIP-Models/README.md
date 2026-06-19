@@ -27,3 +27,11 @@ Understand how network communication works through layered architectures.
 ## Outcome
 
 Successfully understood the OSI and TCP/IP models and their role in network communication.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

@@ -40,3 +40,11 @@ netstat
 ## Outcome
 
 Successfully explored Linux networking and connectivity troubleshooting.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

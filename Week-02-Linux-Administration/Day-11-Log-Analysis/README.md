@@ -40,3 +40,11 @@ journalctl
 ## Outcome
 
 Successfully analyzed system logs and investigated system events.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

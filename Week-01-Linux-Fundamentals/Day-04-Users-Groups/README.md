@@ -42,3 +42,11 @@ groups
 ## Outcome
 
 Successfully managed users and groups while understanding Linux access control concepts.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

@@ -39,3 +39,11 @@ exit
 ## Outcome
 
 Successfully developed practical automation scripts using Bash.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

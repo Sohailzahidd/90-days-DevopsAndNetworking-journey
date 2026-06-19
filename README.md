@@ -152,3 +152,11 @@ Stay tuned as I continue documenting my DevOps journey.
 - [ ] Kubernetes
 - [ ] AWS
 - [ ] CI/CD
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

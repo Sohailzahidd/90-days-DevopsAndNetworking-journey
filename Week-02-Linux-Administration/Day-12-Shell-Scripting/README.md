@@ -39,3 +39,11 @@ else
 ## Outcome
 
 Successfully created basic Bash scripts for automation tasks.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

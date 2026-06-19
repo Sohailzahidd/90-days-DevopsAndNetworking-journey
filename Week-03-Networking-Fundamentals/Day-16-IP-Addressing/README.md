@@ -38,3 +38,11 @@ traceroute
 ## Outcome
 
 Successfully understood IP addressing concepts and basic network segmentation.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

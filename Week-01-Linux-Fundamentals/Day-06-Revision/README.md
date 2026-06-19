@@ -29,3 +29,11 @@ Review and reinforce Linux concepts learned during Week 1.
 ## Outcome
 
 Consolidated foundational Linux concepts through revision and hands-on practice.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

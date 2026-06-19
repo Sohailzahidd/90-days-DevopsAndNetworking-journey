@@ -40,3 +40,11 @@ dpkg -l
 ## Outcome
 
 Successfully managed Linux software packages using package management tools.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+

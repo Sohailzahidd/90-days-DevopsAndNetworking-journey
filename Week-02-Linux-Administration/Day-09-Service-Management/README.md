@@ -39,3 +39,11 @@ systemctl disable
 ## Outcome
 
 Successfully managed and monitored Linux system services.
+
+
+---
+
+## Screenshots
+
+Screenshots demonstrating hands-on practice and command execution.
+
