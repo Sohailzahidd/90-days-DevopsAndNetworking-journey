@@ -1,52 +1,96 @@
 # Day 15 - OSI Model & TCP/IP Model
 
-## What I Learned
+## Objective
 
-Today I started Week 3 of my 90 Days DevOps & Networking Journey by learning the fundamentals of computer networking.
+Understand how devices communicate over networks and learn the models used to describe network communication.
 
-### OSI Model
+---
 
-The OSI Model is a framework that explains how data travels from one device to another through seven layers:
+## What is Networking?
+
+Networking is the process of connecting devices so they can communicate and share data. Every website, application, server, and cloud service relies on networking.
+
+---
+
+## OSI Model
+
+The Open Systems Interconnection (OSI) Model is a conceptual framework that explains how data travels between devices through seven layers.
+
+### OSI Layers
 
 1. Physical Layer
+
+   * Responsible for transmitting raw bits through cables, fiber optics, or wireless signals.
+
 2. Data Link Layer
+
+   * Handles communication between devices on the same network using MAC addresses.
+
 3. Network Layer
+
+   * Responsible for logical addressing and routing using IP addresses.
+
 4. Transport Layer
+
+   * Ensures reliable communication through protocols such as TCP and UDP.
+
 5. Session Layer
+
+   * Establishes, manages, and terminates communication sessions.
+
 6. Presentation Layer
+
+   * Handles data formatting, encryption, and compression.
+
 7. Application Layer
 
-### TCP/IP Model
+   * Provides services directly to users and applications such as HTTP, HTTPS, DNS, and SMTP.
 
-The TCP/IP Model is the networking model used on the Internet.
+---
 
-It consists of:
+## TCP/IP Model
+
+The TCP/IP Model is the practical networking model used by the Internet.
+
+### Layers
 
 1. Network Access Layer
 2. Internet Layer
 3. Transport Layer
 4. Application Layer
 
-### Key Learnings
+---
 
-* The OSI model helps understand network communication.
-* TCP/IP is the practical model used on the Internet.
-* DNS converts domain names into IP addresses.
-* IP addresses identify devices on a network.
-* TCP provides reliable communication between systems.
+## OSI vs TCP/IP
 
-## Commands Practiced
+| OSI Model                       | TCP/IP Model                |
+| ------------------------------- | --------------------------- |
+| 7 Layers                        | 4 Layers                    |
+| Conceptual Framework            | Practical Internet Model    |
+| Used for Understanding Networks | Used for Real Communication |
 
-ip a
+---
 
-hostname -I
+## Real-World Example
 
-ip route
+When a user opens google.com:
 
-ping google.com -c 4
+1. The browser generates an HTTP request.
+2. DNS resolves the domain name into an IP address.
+3. TCP establishes a connection.
+4. Routers forward packets across networks.
+5. The server processes the request.
+6. The webpage is returned to the browser.
 
-nslookup google.com
+---
+
+## Key Learnings
+
+* The OSI Model explains how network communication works.
+* TCP/IP is the protocol suite used on the Internet.
+* Data passes through multiple layers before reaching its destination.
+* Understanding networking models is essential for DevOps and Cloud Engineers.
 
 ## Outcome
 
-Learned how devices communicate over networks and understood the role of OSI and TCP/IP models in real-world communication.
+Successfully understood the OSI and TCP/IP models and their role in modern networking.
