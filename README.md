@@ -141,3 +141,14 @@ https://hashnode.com/@sohailzahid
 * SSH & FTP
 
 Stay tuned as I continue documenting my DevOps journey.
+
+## Progress Tracker
+
+- [x] Linux Fundamentals
+- [x] Shell Scripting
+- [x] Networking Fundamentals
+- [ ] Git & GitHub
+- [ ] Docker
+- [ ] Kubernetes
+- [ ] AWS
+- [ ] CI/CD
