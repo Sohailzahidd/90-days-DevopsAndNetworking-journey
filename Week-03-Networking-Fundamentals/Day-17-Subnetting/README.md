@@ -79,18 +79,22 @@ Kubernetes clusters
 Docker networks
 Secure application infrastructure
 
-## IP Address
-
-![IP Address](day17-ip-address.png)
-
 ## Routing Table
 
-![Routing Table](day17-routing-table.png)
+![Routing Table](RoutingTable.png)
+
+## IP Route
+
+![IP Route](ipRoute.png)
 
 ## Subnet Calculation
 
-![Subnet Calculation](day17-ipcalc.png)
+![Subnet Calculation](ipcalc.png)
+
+## Additional Subnet Practice
+
+![Subnet Practice](SubnetCalculating1.png)
 
 ## Connectivity Test
 
-![Ping Test](day17-ping-test.png)
+![Ping Test](PingTest.png)
