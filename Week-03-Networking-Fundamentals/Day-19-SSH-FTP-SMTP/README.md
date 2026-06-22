@@ -126,8 +126,6 @@ cat /etc/ssh/ssh_config
 
 ## Screenshots
 
-## Screenshots
-
 ### SSH Version, SSH Status and Open Ports
 
 ![SSH Version Status Ports](version,status,ports.png)
