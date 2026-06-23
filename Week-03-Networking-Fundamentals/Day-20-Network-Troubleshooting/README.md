@@ -85,29 +85,26 @@ Tests web server response headers.
 
 ## Screenshots
 
-### Ping Test
+## DNS Lookup
 
-![Ping Test](ping-test.png)
+![DNS Lookup](dnsLookups.png)
 
-### Traceroute
+## Dig Query
+
+![Dig Query](digQuery.png)
+
+## Open Ports
+
+![Open Ports](openPorts.png)
+
+## Traceroute
 
 ![Traceroute](traceroute.png)
 
-### Open Ports
+## Curl Test
 
-![Open Ports](open-ports.png)
+![Curl Test](curlTest.png)
 
-### DNS Lookup
-
-![DNS Lookup](dns-lookup.png)
-
-### Dig Query
-
-![Dig Query](dig-query.png)
-
-### Curl Test
-
-![Curl Test](curl-test.png)
 
 ---
 
@@ -138,22 +135,3 @@ These tools are widely used in:
 
 Successfully practiced essential network troubleshooting techniques and gained hands-on experience diagnosing common connectivity issues.
 
-## DNS Lookup
-
-![DNS Lookup](dnsLookups.png)
-
-## Dig Query
-
-![Dig Query](digQuery.png)
-
-## Open Ports
-
-![Open Ports](openPorts.png)
-
-## Traceroute
-
-![Traceroute](traceroute.png)
-
-## Curl Test
-
-![Curl Test](curlTest.png)
