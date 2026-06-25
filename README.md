@@ -62,6 +62,27 @@ Topics Covered:
 * Day 13 – Shell Scripting Practice
 
 ---
+##  Week 3: Networking Fundamentals
+
+Topics Covered:
+
+* OSI & TCP/IP Models
+* IP Addressing
+* Subnetting Fundamentals
+* DNS & DHCP
+* SSH, FTP & SMTP
+* Network Troubleshooting
+
+## Days Completed
+
+* Day 15 – OSI & TCP/IP Model
+* Day 16 – IP Addressing
+* Day 17 – Subnetting Fundamentals
+* Day 18 – DNS & DHCP
+* Day 19 – SSH, FTP & SMTP
+* Day 20 – Network Troubleshooting
+
+
 
 ##  Repository Structure
 
@@ -83,6 +104,17 @@ Topics Covered:
 │   ├── Day-11-Log-Analysis
 │   ├── Day-12-Shell-Scripting
 │   └── Day-13-Shell-Scripting-Practice
+
+├── Week-03-Networking-Fundamentals
+│   ├── Day-15-OSI-TCPIP-Models
+│   ├── Day-16-IP-Addressing
+│   ├── Day-17-Subnetting
+│   ├── Day-18-DNS-DHCP
+│   ├── Day-19-SSH-FTP-SMTP
+│   └── Day-20-Network-Troubleshooting
+│
+├── Week-04-Git-GitHub
+│   └── Day-22-Git-Internals
 │
 └── README.md
 ```
@@ -106,15 +138,29 @@ Topics Covered:
 * Log Analysis
 * Shell Scripting
 
+## Networking 
+
+* Networking
+* OSI Model
+* TCP/IP Model
+* IP Addressing
+* Subnetting
+* DNS & DHCP
+* SSH, FTP & SMTP
+* Network Troubleshooting
+
 ---
 
 ##  Blogs
 
 * Week 1 Linux Fundamentals Blog
+link: https://sohailzahid.hashnode.dev/week-1-completed-in-devops-linux-fundamentals-journey
+
 * Week 2 Linux Administration Blog
+link: https://sohailzahid.hashnode.dev/week-2-completed-linux-administration-90-days-devops-networking-journey?utm_source=hashnode&utm_medium=feed
 
-https://hashnode.com/@sohailzahid
-
+* Week 3 - Networking Fundamentals
+link: https://sohailzahid.hashnode.dev/week-3-complete-networking-fundamentals-for-devops-engineers-90-days-devops-networking-journey?utm_source=hashnode&utm_medium=feed
 ---
 
 ##  Connect With Me
@@ -131,14 +177,25 @@ https://hashnode.com/@sohailzahid
 
 ##  Upcoming Topics
 
-### Week 3 – Networking Fundamentals
+### Week 4 - Git and GitHub
 
-* OSI Model
-* TCP/IP Model
-* IP Addressing & Subnetting
-* DNS, DHCP
-* HTTP & HTTPS
-* SSH & FTP
+
+
+## Currently learning:
+
+* Git & GitHub
+* Version Control Workflows
+* Branching Strategies
+* Repository Management
+
+## Upcoming:
+
+* Docker
+* AWS
+* Jenkins
+* Terraform
+* Kubernetes
+* Monitoring & Logging
 
 Stay tuned as I continue documenting my DevOps journey.
 
