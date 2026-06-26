@@ -158,3 +158,28 @@ Successfully created, switched, merged, and deleted Git branches while understan
 
 ---
 
+# Screenshots
+
+## Git Branch
+
+![Git Branch](git-branch.png)
+
+## Create Branch
+
+![Create Branch](create-branch.png)
+
+## Switch Branch
+
+![Switch Branch](switch-branch.png)
+
+## Feature Commit
+
+![Feature Commit](feature-commit.png)
+
+## Git Merge
+
+![Git Merge](git-merge.png)
+
+## Git Graph
+
+![Git Graph](git-graph.png)
