@@ -158,27 +158,32 @@ Successfully created a merge conflict, understood Git conflict markers, resolved
 
 ---
 
-# Screenshots
-
 ## Screenshots
 
-### Initial Commit
-![Initial Commit](01-initial-commit.png)
+### Create File
 
-### Feature Branch
-![Feature Branch](02-feature-branch.png)
+![Create File](01-create-file.png)
 
-### Feature Commit
+### Create Feature Branch
+
+![Create Branch](02-create-branch.png)
+
+### Feature Branch Commit
+
 ![Feature Commit](03-feature-commit.png)
 
-### Main Commit
+### Main Branch Commit
+
 ![Main Commit](04-main-commit.png)
 
 ### Merge Conflict
+
 ![Merge Conflict](05-merge-conflict.png)
 
 ### Conflict Markers
+
 ![Conflict Markers](06-conflict-markers.png)
 
-### Final Git Graph
-![Final Git Graph](07-final-git-graph.png)
+### Resolved Conflict
+
+![Resolved Conflict](07-resolved-conflict.png)
