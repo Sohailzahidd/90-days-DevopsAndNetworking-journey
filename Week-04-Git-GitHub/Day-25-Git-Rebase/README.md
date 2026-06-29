@@ -29,8 +29,6 @@ Git Rebase moves commits from one branch onto another to create a cleaner and mo
 
 Unlike merge, rebase does not create a merge commit.
 
-## Screenshots
-
 ---
 
 # Screenshots
