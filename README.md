@@ -114,7 +114,11 @@ Topics Covered:
 │   └── Day-20-Network-Troubleshooting
 │
 ├── Week-04-Git-GitHub
-│   └── Day-22-Git-Internals
+│   ├── Day-22-Git-Internals
+│   ├── Day-23-Git-Branching-Merging
+│   ├── Day-24-Git-Merge-Conflicts
+│   ├── Day-25-Git-Rebase
+│   └── Day-26-GitHub-Pull-Requests
 │
 └── README.md
 ```
@@ -204,7 +208,7 @@ Stay tuned as I continue documenting my DevOps journey.
 - [x] Linux Fundamentals
 - [x] Shell Scripting
 - [x] Networking Fundamentals
-- [ ] Git & GitHub
+- [x] Git & GitHub
 - [ ] Docker
 - [ ] Kubernetes
 - [ ] AWS
@@ -213,9 +217,6 @@ Stay tuned as I continue documenting my DevOps journey.
 
 ---
 
-## Screenshots
-
-Screenshots demonstrating hands-on practice and command execution.
 
 ## Latest Progress
 
