@@ -43,3 +43,19 @@ Command:
 
 ```bash
 git clone <repository-url>
+
+---
+
+# Screenshots
+
+## Folder Creation & README
+
+![Folder Creation & README](01-folder-readme.png)
+
+## Git Clone
+
+![Git Clone](02-git-clone.png)
+
+## GitHub Issue
+
+![GitHub Issue](03-github-issue.png)
