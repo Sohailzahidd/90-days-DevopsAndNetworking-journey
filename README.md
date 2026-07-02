@@ -219,4 +219,4 @@ Stay tuned as I continue documenting my DevOps journey.
 
 ## Latest Progress
 
-Stared week 5 - Docker Fundamentals
+Started week 5 - Docker Fundamentals
