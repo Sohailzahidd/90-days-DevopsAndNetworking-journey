@@ -80,3 +80,46 @@ Successfully understood the complete lifecycle of Docker Images and Containers b
 
 ---
 
+---
+
+# Screenshots
+
+## 1. Docker Version
+
+![Docker Version](01-docker-version.png)
+
+---
+
+## 2. Docker Service Status
+
+![Docker Service Status](02-docker-service-status.png)
+
+---
+
+## 3. List Docker Images
+
+![Docker Images](03-list-docker-images.png)
+
+---
+
+## 4. Pull Ubuntu Image
+
+![Pull Ubuntu Image](04-pull-ubuntu-image.png)
+
+---
+
+## 5. Run Ubuntu Container
+
+![Run Ubuntu Container](05-run-ubuntu-container.png)
+
+---
+
+## 6. Working Inside Ubuntu Container
+
+![Interactive Ubuntu Container](06-container-inside-ubuntu.png)
+
+---
+
+## 7. Remove Container and Docker Image
+
+![Remove Container and Image](07-remove-container-and-image.png)
