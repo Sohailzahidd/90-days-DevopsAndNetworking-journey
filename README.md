@@ -30,7 +30,7 @@ Topics Covered:
 * Users & Groups
 * Process Management
 
-#### Days Completed
+## Days Completed
 
 * Day 01 – Linux Basics
 * Day 02 – Linux File System
@@ -52,7 +52,7 @@ Topics Covered:
 * Shell Scripting
 * Shell Scripting Practice
 
-#### Days Completed
+## Days Completed
 
 * Day 08 – Package Management
 * Day 09 – Service Management
@@ -62,7 +62,8 @@ Topics Covered:
 * Day 13 – Shell Scripting Practice
 
 ---
-##  Week 3: Networking Fundamentals
+
+###  Week 3: Networking Fundamentals
 
 Topics Covered:
 
@@ -81,6 +82,8 @@ Topics Covered:
 * Day 18 – DNS & DHCP
 * Day 19 – SSH, FTP & SMTP
 * Day 20 – Network Troubleshooting
+
+---
 
 ### Week 4: Git-GitHub
 
@@ -101,13 +104,15 @@ Topics Covered:
 
 ## Days Completed
 
-* Day-22-Git-Basics
-* Day-23-Git-Branching-and-Merging
-* Day-24-Git-Merge-Conflicts
-* Day-25-Git-Stash-and-Reset
-* Day-26-Git-Rebase-and-Cherry-Pick
-* Day-27-GitHub-Workflows
-* Day-28-Repository-Management
+* Day 22 – Git-Basics
+* Day 23 – Git-Branching-and-Merging
+* Day 24 – Git-Merge-Conflicts
+* Day 25 – Git-Stash-and-Reset
+* Day 26 – Git-Rebase-and-Cherry-Pick
+* Day 27 – GitHub-Workflows
+* Day 28 – pository-Management
+
+---
 
 ### Week-05-Docker
 
@@ -128,13 +133,15 @@ Topics Covered
 
 ## Days Completed
 
-* Day-29-Containers-vs-Virtual-Machines
-* Day-30-Docker-Architecture
-* Day-31-Docker-Images-and-Containers
-* Day-32-Docker-Hub
-* Day-33-Docker-Container-Lifecycle
-* Day-34-Docker-Networking
-* Day-35-Docker-Compose
+* Day 29 – Containers-vs-Virtual-Machines
+* Day 30 – Docker-Architecture
+* Day 31 – Docker-Images-and-Containers
+* Day 32 – Docker-Hub
+* Day 33 – Docker-Container-Lifecycle
+* Day 34 – Docker-Networking
+* Day 35 – Docker-Compose
+
+---
 
 ## Repository Structure
 
@@ -194,8 +201,6 @@ Topics Covered
     └── Day-35-Docker-Compose
  
 ```
-
----
 
 ##  Skills Learned So Far
 
