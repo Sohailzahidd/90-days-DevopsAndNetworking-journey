@@ -82,30 +82,117 @@ Topics Covered:
 * Day 19 – SSH, FTP & SMTP
 * Day 20 – Network Troubleshooting
 
+### Week 4: Git-GitHub
 
+Topics Covered:
 
-##  Repository Structure
+* Git Basics
+* Repository Initialization
+* Git Configuration
+* Branching & Merging
+* Merge Conflicts
+* Git Stash
+* Git Reset & Restore
+* Git Rebase
+* Cherry-pick
+* GitHub Workflows
+* Repository Management
+* Documentation Best Practices
+
+## Days Completed
+
+* Day-22-Git-Basics
+* Day-23-Git-Branching-and-Merging
+* Day-24-Git-Merge-Conflicts
+* Day-25-Git-Stash-and-Reset
+* Day-26-Git-Rebase-and-Cherry-Pick
+* Day-27-GitHub-Workflows
+* Day-28-Repository-Management
+
+### Week-05-Docker
+
+Topics Covered
+
+* Containers vs Virtual Machines
+* Docker Architecture
+* Docker Installation & Configuration
+* Docker Images
+* Docker Containers
+* Docker CLI Commands
+* Docker Hub
+* Pulling & Managing Images
+* Docker Container Lifecycle
+* Docker Networking
+* Docker Compose
+* Multi-Service Application Deployment
+
+## Days Completed
+
+* Day-29-Containers-vs-Virtual-Machines
+* Day-30-Docker-Architecture
+* Day-31-Docker-Images-and-Containers
+* Day-32-Docker-Hub
+* Day-33-Docker-Container-Lifecycle
+* Day-34-Docker-Networking
+* Day-35-Docker-Compose
+
+## Repository Structure
 
 ```text
+
 90-days-DevopsAndNetworking-journey
 │
-├── Tools
-├── Week-01-Linux-Fundamentals
-├── Week-02-Linux-Administration
-├── Week-03-Networking-Fundamentals
-├── Week-04-Git-GitHub
-├── Week-05-Docker
-│   ├── Day-29-Containers-vs-Virtual-Machines
-│   ├── Day-30-Docker-Architecture
-│   ├── Day-31-Docker-Images-and-Containers
-│   ├── Day-32-Docker-Hub
-│   ├── Day-33-Container-Life-Cycle
-│   ├── Day-34-Docker-Networking
-│   └── Day-35-Docker-Compose
-│
+├── README.md
 ├── BlogCoverImage.png
-└── README.md
-
+├── Tools
+│   ├── Screenshot-Documentation-Generator.sh
+│   └── Useful-Scripts
+│
+├── Week-01-Linux-Fundamentals
+│   ├── Day-01-Linux-Introduction
+│   ├── Day-02-Linux-Commands
+│   ├── Day-03-File-System
+│   ├── Day-04-Users-and-Groups
+│   ├── Day-05-Process-Management
+│   ├── Day-06-Linux-Permissions
+│   └── Day-07-Week-1-Revision
+│
+├── Week-02-Linux-Administration
+│   ├── Day-08-Package-Management
+│   ├── Day-09-Service-Management
+│   ├── Day-10-System-Monitoring
+│   ├── Day-11-Log-Analysis
+│   ├── Day-12-Shell-Scripting
+│   ├── Day-13-Shell-Scripting-Advance
+│   └── Day-14-Week-2-Revision
+│
+├── Week-03-Networking-Fundamentals
+│   ├── Day-15-Networking-Basics
+│   ├── Day-16-OSI-and-TCP-IP
+│   ├── Day-17-IP-Addressing-and-Subnetting
+│   ├── Day-18-DNS-and-DHCP
+│   ├── Day-19-SSH-FTP-and-SMTP
+│   ├── Day-20-Network-Troubleshooting
+│   └── Day-21-Week-3-Revision
+│
+├── Week-04-Git-GitHub
+│   ├── Day-22-Git-Basics
+│   ├── Day-23-Git-Branching-and-Merging
+│   ├── Day-24-Git-Merge-Conflicts
+│   ├── Day-25-Git-Stash-and-Reset
+│   ├── Day-26-Git-Rebase-and-Cherry-Pick
+│   ├── Day-27-GitHub-Workflows
+│   └── Day-28-Repository-Management
+│
+└── Week-05-Docker
+    ├── Day-29-Containers-vs-Virtual-Machines
+    ├── Day-30-Docker-Architecture
+    ├── Day-31-Docker-Images-and-Containers
+    ├── Day-32-Docker-Hub
+    ├── Day-33-Docker-Container-Lifecycle
+    ├── Day-34-Docker-Networking
+    └── Day-35-Docker-Compose
+ 
 ```
 
 ---
@@ -149,20 +236,30 @@ Topics Covered:
 * GitHub Workflows
 * Repository Management
 
+### Docker Fundamentals
+
+- Containers vs Virtual Machines
+- Docker Architecture
+- Docker Images
+- Docker Containers
+- Docker Hub
+- Container Lifecycle
+- Docker Networking
+- Docker Compose
+
 ---
 
-##  Blogs
+##  Blogs Links
 
-* Week 1 Linux Fundamentals Blog
-link: https://sohailzahid.hashnode.dev/week-1-completed-in-devops-linux-fundamentals-journey
+* Week 1 Linux Fundamentals - https://sohailzahid.hashnode.dev/week-1-completed-in-devops-linux-fundamentals-journey
 
-* Week 2 Linux Administration Blog
-link: https://sohailzahid.hashnode.dev/week-2-completed-linux-administration-90-days-devops-networking-journey?utm_source=hashnode&utm_medium=feed
+* Week 2 Linux Administration -https://sohailzahid.hashnode.dev/week-2-completed-linux-administration-90-days-devops-networking-journey
 
-* Week 3 - Networking Fundamentals
-link: https://sohailzahid.hashnode.dev/week-3-complete-networking-fundamentals-for-devops-engineers-90-days-devops-networking-journey?utm_source=hashnode&utm_medium=feed
+* Week 3  Networking Fundamentals - https://sohailzahid.hashnode.dev/week-3-complete-networking-fundamentals-for-devops-engineers-90-days-devops-networking-journey
 
 * Week 4 Git & GitHub - https://sohailzahid.hashnode.dev/week-4-completed-git-github-essentials-90-days-devops-networking-journey
+
+* Week 5 Docker Fundamentals - https://sohailzahid.hashnode.dev/week-5-completed-docker-fundamentals-90-days-devops-networking-journey
 ---
 
 ##  Connect With Me
@@ -179,17 +276,17 @@ https://hashnode.com/@sohailzahid
 
 ##  Upcoming Topics
 
-### Week 5 -  Containers, Cloud & Automation
+### Week 6 - Advanced Docker  
 
 
 
 ## Currently learning:
 
-* Containers vs Virtual Machines
-* Docker architecture
-* Images and containers
-* Docker Hub
-* Container life-cycle
+* Docker files
+* Docker Compose
+* Volumes
+* Networking
+* Multi-container applications
 
 ## Upcoming:
 
@@ -219,4 +316,5 @@ Stay tuned as I continue documenting my DevOps journey.
 
 ## Latest Progress
 
-Started week 5 - Docker Fundamentals
+Started week 6 - Advanced Docker
+
