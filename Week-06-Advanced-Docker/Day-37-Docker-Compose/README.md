@@ -162,26 +162,19 @@ Example:
 
 ## Docker Compose Version
 
-![Docker Compose Version](Screenshots/01-docker-compose-version.png)
+![Docker Compose Version](01-docker-compose-version.png)
 
----
+## Docker Compose File
 
-## docker-compose.yml
-
-![Compose File](Screenshots/02-compose-file-created.png)
-
----
+![Docker Compose File](02-compose-file-created.png)
 
 ## Containers Started
 
-![Compose Up](Screenshots/03-compose-up-running.png)
+![Containers Started](03-compose-up-running.png)
 
----
+## Browser Output
 
-## Nginx Running in Browser
-
-![Browser Output](Screenshots/04-nginx-running-browser.png)
-
+![Browser Output](04-nginx-running-browser.png)
 ---
 
 # Outcome
