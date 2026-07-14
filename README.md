@@ -143,6 +143,35 @@ Topics Covered
 
 ---
 
+## Week 06– Advanced Docker
+
+Topics Covered
+
+- Dockerfiles
+- Docker Images
+- Docker Containers
+- Docker Compose
+- Docker Volumes
+- Docker Networking
+- Multi-Container Applications
+- Docker Image Optimization
+- Dockerfile Best Practices
+- Container Communication
+- Docker Image Inspection
+- Docker History
+
+## Days Completed
+
+* Day 36 – Dockerfiles
+* Day 37 – Docker Compose
+* Day 38 – Docker Volumes
+* Day 39 – Docker Networking
+* Day 40 – Multi-Container Applications
+* Day 41 – Docker Best Practices
+* Week 06 Revision Completed
+
+---
+
 ## Repository Structure
 
 ```text
@@ -310,7 +339,7 @@ Stay tuned as I continue documenting my DevOps journey.
 - [x] Shell Scripting
 - [x] Networking Fundamentals
 - [x] Git & GitHub
-- [ ] Docker
+- [x] Docker
 - [ ] Kubernetes
 - [ ] AWS
 - [ ] CI/CD
