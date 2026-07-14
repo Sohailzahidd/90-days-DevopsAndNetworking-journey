@@ -220,15 +220,24 @@ Topics Covered
 │   ├── Day-27-GitHub-Workflows
 │   └── Day-28-Repository-Management
 │
-└── Week-05-Docker
-    ├── Day-29-Containers-vs-Virtual-Machines
-    ├── Day-30-Docker-Architecture
-    ├── Day-31-Docker-Images-and-Containers
-    ├── Day-32-Docker-Hub
-    ├── Day-33-Docker-Container-Lifecycle
-    ├── Day-34-Docker-Networking
-    └── Day-35-Docker-Compose
- 
+├── Week-05-Docker
+│   ├── Day-29-Containers-vs-Virtual-Machines
+│   ├── Day-30-Docker-Architecture
+│   ├── Day-31-Docker-Images-and-Containers
+│   ├── Day-32-Docker-Hub
+│   ├── Day-33-Docker-Container-Lifecycle
+│   ├── Day-34-Docker-Networking
+│   └── Day-35-Docker-Compose
+│
+└── Week-06-Advanced-Docker
+    ├── Day-36-Dockerfiles
+    ├── Day-37-Docker-Compose
+    ├── Day-38-Docker-Volumes
+    ├── Day-39-Docker-Networking
+    ├── Day-40-Multi-Container-App
+    ├── Day-41-Docker-Best-Practices
+    └── Week-06-Revision
+
 ```
 
 ##  Skills Learned So Far
@@ -350,5 +359,5 @@ Stay tuned as I continue documenting my DevOps journey.
 
 ## Latest Progress
 
-Started week 6 - Advanced Docker
+completed week 6 - Advanced Docker
 
